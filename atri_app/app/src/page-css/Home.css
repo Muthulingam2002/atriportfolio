@@ -723,7 +723,7 @@ width: 85%;
 display: flex;
 justify-content: space-between;
 background-color: #000000;
-padding-top: 60px;
+padding-top: 5px;
 padding-bottom: 80px;
 }
 .p-Home.Flex472 {
@@ -768,14 +768,15 @@ width: 50%;
 max-width: 500px;
 }
 .p-Home.TextBox12 {
-font-family: Plus Jakarta Sans;
+font-family: IBM Plex Sans;
 color: #666666;
 margin-top: 25px;
 margin-bottom: 40px;
 font-size: 22px;
+font-weight: 400;
 }
 .p-Home.TextBox13 {
-font-family: Plus Jakarta Sans;
+font-family: IBM Plex Sans;
 font-weight: 700;
 font-size: 75px;
 color: #FE5E6B;
@@ -783,7 +784,7 @@ line-height: 120%;
 }
 .p-Home.TextBox11 {
 overflow: visible;
-font-family: Plus Jakarta Sans;
+font-family: IBM Plex Sans;
 font-size: 75px;
 font-weight: 700;
 margin-top: ;
@@ -868,7 +869,7 @@ padding-bottom: 40px;
 padding-top: 20px;
 align-self: center;
 text-align: center;
-font-family: Plus Jakarta Sans;
+font-family: IBM Plex Sans;
 font-weight: 700;
 }
 .p-Home.TextBox19 {
@@ -1121,7 +1122,7 @@ line-height: 120%;
 align-self: flex-start;
 }
 .p-Home.TextBox34 {
-font-family: Plus Jakarta Sans;
+font-family: IBM Plex Sans;
 font-weight: 700;
 font-size: 50px;
 padding-bottom: ;
@@ -1591,4 +1592,5 @@ color: #FE5E6B;
 line-height: 120%;
 align-self: auto;
 padding-top: 10px;
+padding-bottom: 10px;
 }
